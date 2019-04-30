@@ -1,0 +1,22 @@
+{
+  "name": "rxjs-learn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server --mode development"
+  },
+  "author": "Caleb Spain",
+  "license": "ISC",
+  "dependencies": {
+    "rxjs": "^6.5.1",
+    "rxjs-compat": "^6.5.1",
+    "ts-loader": "^5.4.4",
+    "typescript": "^3.4.5",
+    "webpack": "^4.30.0",
+    "webpack-dev-server": "^3.3.1"
+  },
+  "devDependencies": {
+    "webpack-cli": "^3.3.1"
+  }
+}
